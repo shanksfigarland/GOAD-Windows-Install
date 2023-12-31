@@ -3,6 +3,7 @@
 Main project by Mayfly: https://github.com/Orange-Cyberdefense/GOAD
 
 This was fully tested only on a Windows 10 machine with 64GB of RAM. 
+This may also work for `GOAD-light` and `NHA`.
 
 
 ## Pre-requisites
@@ -11,8 +12,8 @@ This was fully tested only on a Windows 10 machine with 64GB of RAM.
 - Vagrant (Windows)
 - Git bash (Windows)
 - Kali (inside VMWARE)
-- A lot of disk
-- A lot of ram
+- A lot of disk (200GB)
+- A lot of ram (At least 32GB)
 
 ## VMware
 - Your Kali with 2 NICs (1 NAT - 1 vmnet 192.168.56.0)
