@@ -1,8 +1,4 @@
-# GOAD-windows-install
-
-
 # Installation process
-
 
 ## Pre-requisites
 - Windows (HOST)
