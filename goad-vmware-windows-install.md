@@ -79,7 +79,7 @@ To test if all machines are working go to your Kali and use netexec to test
 ```bash
 nxc smb 192.168.56.0/24
 ```
-If 5 machines shows up, you're good to go.
+If 5 machines (MEEREEN, KINGSLANDING, CASTELBLACK, BRAAVOS, WINTERFELL) shows up, you're good to go.
 
 
 
