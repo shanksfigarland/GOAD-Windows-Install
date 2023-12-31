@@ -9,6 +9,10 @@ This was fully tested only on a Windows 10 machine with 64GB of RAM.
 - Windows 10 (HOST)
 - VMWARE Workstation 
 - Vagrant (Windows)
+- Git bash (Windows)
+- Kali (inside VMWARE)
+- A lot of disk
+- A lot of ram
 
 ## VMware
 - Your Kali with 2 NICs (1 NAT - 1 vmnet 192.168.56.0)
