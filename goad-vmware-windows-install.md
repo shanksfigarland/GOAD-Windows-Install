@@ -1,6 +1,9 @@
-# Installation process
+# Installation of GOAD for Windows
+
+Repo: https://github.com/Orange-Cyberdefense/GOAD
 
 This was fully tested only on a Windows 10 machine with 64GB of RAM. 
+
 
 ## Pre-requisites
 - Windows 10 (HOST)
