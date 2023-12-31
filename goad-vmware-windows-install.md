@@ -50,6 +50,8 @@ vagrant up
 Wait for installation to end
 
 3. Go to your kali
+- Add a new NIC adapter to 192.168.56.0
+- Keep your NAT otherwise you won't have internet
    
 - Install dependencies for `ansible`
 
