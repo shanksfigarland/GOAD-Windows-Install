@@ -34,7 +34,7 @@ vagrant plugin install vagrant-vmware-desktop
 ## Install git bash for Windows
 https://git-scm.com/download/win
 
-1. Clone *GOAD* to a folder of your liking (recommend being the biggest hard drive you have and not C:)
+1. Clone `GOAD` to a folder of your liking (recommend being the biggest hard drive you have and not C:)
 - right click on the folder > `Open Git Bash here` and type:
 ```bash
 git clone https://github.com/Orange-Cyberdefense/GOAD
