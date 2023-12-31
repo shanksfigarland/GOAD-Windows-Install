@@ -1,7 +1,9 @@
 # Installation process
 
+This was fully tested only on a Windows 10 machine with 64GB of RAM. 
+
 ## Pre-requisites
-- Windows (HOST)
+- Windows 10 (HOST)
 - VMWARE Workstation 
 - Vagrant (Windows)
 
