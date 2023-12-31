@@ -40,7 +40,7 @@ Wait for installation to end
 
 3. Go to your kali
    
-3.1 Install dependencies for `ansible`
+- Install dependencies for `ansible`
 
 ```bash
 pip install --upgrade pip
@@ -49,7 +49,7 @@ pip install pywinrm
 
 sudo apt install sshpass lftp rsync openssh-client
 ```
-3.2 Clone the repo again and run the install script
+- Clone the repo again and run the install script
 
 ```bash
 ./goad.sh -t install -l GOAD -p vmware -m local -a
