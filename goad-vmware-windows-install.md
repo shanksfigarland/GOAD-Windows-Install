@@ -69,5 +69,17 @@ sudo apt install sshpass lftp rsync openssh-client
 ```
 Wait to end, grab a coffee, it's gonna take a while.
 
+When it ends this will appear:
+```bash
+[✓] Command successfully executed
+[✓] your lab is successfully setup ! have fun ;)
+```
+
+To test if all machines are working go to your Kali and use netexec to test
+```bash
+nxc smb 192.168.56.0/24
+```
+If 5 machines shows up, you're good to go.
+
 
 
