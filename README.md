@@ -51,6 +51,7 @@ Wait for installation to end
 
 3. Go to VMWare Workstation's Virtual Network Editor
 - Add a new NIC adapter to 192.168.56.0 (Host-only) then add to you Kali and keep your NAT otherwise you won't have internet
+[NIC](nichostonly.png)
    
 - Install dependencies for `ansible`
 
