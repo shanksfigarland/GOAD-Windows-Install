@@ -49,9 +49,8 @@ vagrant up
 ```
 Wait for installation to end
 
-3. Go to your kali
-- Add a new NIC adapter to 192.168.56.0
-- Keep your NAT otherwise you won't have internet
+3. Go to VMWare Workstation's Virtual Network Editor
+- Add a new NIC adapter to 192.168.56.0 (Host-only) then add to you Kali and keep your NAT otherwise you won't have internet
    
 - Install dependencies for `ansible`
 
@@ -62,7 +61,7 @@ pip install pywinrm
 
 sudo apt install sshpass lftp rsync openssh-client
 ```
-- Clone the repo again and run the install script
+- Clone the repo in your KALI machine and run the install script
 
 ```bash
 ./goad.sh -t install -l GOAD -p vmware -m local -a
