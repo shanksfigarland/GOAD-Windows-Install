@@ -48,7 +48,7 @@ type:
 vagrant up
 ```
 If the error below appears, try disabling any virtualbox network adaptors you had. This will conflict with GOAD.
-![nic](https://https://github.com/shanksfigarland/GOAD-Windows-Install/blob/main/vmneterror.png?raw=true)
+![a](https://github.com/shanksfigarland/GOAD-Windows-Install/blob/main/vmneterror.png?raw=true)
 
 
 Wait for installation to end
