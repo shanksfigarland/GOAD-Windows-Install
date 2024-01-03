@@ -67,10 +67,13 @@ pip install pywinrm
 
 sudo apt install sshpass lftp rsync openssh-client
 ```
-- Clone the repo in your KALI machine and run the install script
 
-Install ansible-galaxy
+- Clone the repo in your KALI machine
+
+Install ansible-galaxy, go to the ansible folder and run:
 `ansible-galaxy install -r ansible/requirements.yml`
+
+Then run the install script in the root folder
 
 ```bash
 ./goad.sh -t install -l GOAD -p vmware -m local -a
