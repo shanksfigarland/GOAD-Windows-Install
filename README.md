@@ -70,7 +70,7 @@ sudo apt install sshpass lftp rsync openssh-client
 
 - Clone the repo in your KALI machine
 
-Install ansible-galaxy, go to the ansible folder and run:
+Install ansible-galaxy, go to the ansible folder `(GOAD/ansible)` and run:
 `ansible-galaxy install -r ansible/requirements.yml`
 
 Then run the install script in the root folder
