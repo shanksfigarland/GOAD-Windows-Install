@@ -69,6 +69,9 @@ sudo apt install sshpass lftp rsync openssh-client
 ```
 - Clone the repo in your KALI machine and run the install script
 
+Install ansible-galaxy
+`ansible-galaxy install -r ansible/requirements.yml`
+
 ```bash
 ./goad.sh -t install -l GOAD -p vmware -m local -a
 ```
