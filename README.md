@@ -26,6 +26,8 @@ https://www.vmware.com/products/workstation-pro/workstation-pro-evaluation.html
 https://developer.hashicorp.com/vagrant/install?product_intent=vagrant#Windows
 
 ## Install Vagrant plugin 
+https://developer.hashicorp.com/vagrant/install/vmware
+
 In the same folder your vagrant.exe is, open a new cmd and type:
 ```bash
 vagrant plugin install vagrant-vmware-desktop
