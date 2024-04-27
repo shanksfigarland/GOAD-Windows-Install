@@ -1,5 +1,7 @@
 # Installation of GOAD for Windows
 
+![a](https://github.com/shanksfigarland/GOAD-Windows-Install/blob/main/goadpic.png?raw=true)
+
 Main project by Mayfly: https://github.com/Orange-Cyberdefense/GOAD
 
 This was fully tested only on a Windows 10 machine with 64GB of RAM. 
